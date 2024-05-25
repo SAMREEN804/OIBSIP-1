@@ -12,7 +12,7 @@ Layout: A balanced and intuitive layout that makes the information easily access
  Key Features:
 
 
-This project was a fantastic learning experience, and I’m thrilled with how it turned out. Special thanks to the Cognorise team for their guidance and support!
+This project was a fantastic learning experience, and I’m thrilled with how it turned out. Special thanks to the OIBSIP team for their guidance and support!
 
 Check out the design ABOVE 
 
