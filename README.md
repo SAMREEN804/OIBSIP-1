@@ -7,8 +7,11 @@ As a GRAPHIC DESIGNING intern, I had the amazing opportunity to design a busines
  Visual Elements:
 
 Color Palette: I used Cognorise’s brand colors to ensure consistency and brand recognition.
+
 Typography: Clean and modern fonts to maintain a professional yet approachable feel.
+
 Layout: A balanced and intuitive layout that makes the information easily accessible.
+
  Key Features:
 
 
